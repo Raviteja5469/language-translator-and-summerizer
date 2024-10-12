@@ -38,41 +38,9 @@ Google Translate API: For accurate text and speech translation.
 4. Listen: Hear the translated text through the text-to-speech functionality.
 
 
-
-🔧 Installation
-
-1. Clone the repository:
-
-git clone https://github.com/yourusername/language-translator-summarizer.git
-
-
-2. Navigate to the project directory:
-
-cd language-translator-summarizer
-
-
-3. Set up a virtual environment (optional but recommended):
-
-python -m venv venv
-source venv/bin/activate  # On Windows use venv\Scripts\activate
-
-
-4. Install dependencies:
-
-pip install -r requirements.txt
-
-
-5. Run the application:
-
-python main.py
-
-
-
 📋 Requirements
 
 Python 3.x
-
-Libraries (see requirements.txt):
 
 gTTS
 
