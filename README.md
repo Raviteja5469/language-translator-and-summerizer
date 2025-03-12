@@ -69,4 +69,4 @@ Contributions are welcome! If you have suggestions for improvements, feel free t
 
 📄 License
 
-This project is licensed under the MIT License
+This project is licensed under the MIT License. 
